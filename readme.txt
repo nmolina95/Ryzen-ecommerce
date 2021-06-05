@@ -4,7 +4,7 @@ su uso, repuestos como los mandos, servicios de soporte y arreglos, además de p
 distintos juegos y aplicaciones.
 Con el sitio apuntaremos a un público de entre 13 y 45 años principalmente, ya que es el rango
 en el que puede ser más fuerte el uso de esta tecnología. 
-El grupo está compuesto por Luciano Cisneros, Julián Alvelo, Julián Simplituca e Ignacio Molina, ubicados en el
+El grupo está compuesto por Luciano Cisneros, Julián Alvelo, e Ignacio Molina, ubicados en el
 rango etario de entre 18 y 25 años. Julián destaca en el aspecto visual, aportando ideas frescas
 y de buen gusto que nos dan más perspesctivas y alternativas a la hora de afrontar el diseño.
 Ignacio, de mente inquieta y calculadora, se encuentra más a gusto en lo relacionado a la 
